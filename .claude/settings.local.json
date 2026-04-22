@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npx vite *)",
+      "Bash(npx tailwindcss *)",
+      "Bash(mkdir -p \"/Users/animesh/Desktop/CS/Fenmo Assignment/backend/src/routes\")",
+      "Bash(npm init *)",
+      "Bash(node --check src/index.js)",
+      "Bash(node --check src/db.js)",
+      "Bash(node --check src/routes/expenses.js)",
+      "Bash(npm test *)",
+      "Bash(npm uninstall *)"
+    ]
+  }
+}
